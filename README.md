@@ -57,7 +57,7 @@ IT技能
          --1、熟悉掌握xml、json等相关库的使用。 
          --2、熟悉掌握cocos2d引擎，了解cocos2d-x引擎 
          --3、掌握CocosBuilder工具的使用和扩展。 
-         --4、接触过Unity3d。 
+          
 
 
     IDE: 
